@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.lynda.samoca" versionCode="1" version="1.0.1">
-  <name>FinIQ Pitchbook</name>
+  <name>Fibook</name>
   <description>
       A sample app for PhoneGap Build: First Look </description>
-  <author href="https://www.finiq.com.sg" email="info@finiq.com">
+  <author href="https://www.iniq.com" email="info@iniq.com">
         Aayushi Gupta 
       </author>
   <platform name="ios"/>
